@@ -18,8 +18,6 @@ keywords: international education, Harrison Gill, engineering abroad, University
     <!--</div>-->
 </div>
 
-[![Harrison Gill headshot][https://harrisongill.github.io/assets/harrison2.jpg]]
-
 ---
 
 I believe that our experiences abroad open the doors to new opportunities. I believe that everyone can benefit from their own unique and personal experience abroad. I believe that our experiences abroad have the ability to empower ourselves. Whether it be for study, work, research, or purposeful travel, what matters is that these experiences are known and accessible. That is where I come in.
