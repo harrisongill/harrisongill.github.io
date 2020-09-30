@@ -7,20 +7,15 @@ keywords: international education, Harrison Gill, engineering abroad, University
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
 
-    <!--<div class="row-fluid">
-        <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
-        </div>-->
+    <!--<<div class="row-fluid">-->
 
-        <div class="span2">
+        <!--<div class="span2">-->
         <a href="../assets/harrison2.jpg">
             <img src="../assets/harrison2.jpg"
                   title="Harrison Gill" alt="Harrison Gill headshot"/></a>
-        </div>
-    </div>
+        <!--</div>-->
+    <!--</div>-->
 </div>
 
 ---
