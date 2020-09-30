@@ -38,7 +38,7 @@ My teaching experience additionally includes serving as a teaching assistant for
     </div>
 </div>
 
-<div class="navbar">
+<!--<div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
@@ -46,4 +46,4 @@ My teaching experience additionally includes serving as a teaching assistant for
           <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
       </ul>
   </div>
-</div>
+</div>-->
