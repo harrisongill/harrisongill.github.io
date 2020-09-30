@@ -13,7 +13,7 @@ keywords: international education, Harrison Gill, engineering abroad, University
         <!--<div class="span2">-->
         <a href="../assets/harrison2.jpg">
             <img src="../assets/harrison2.jpg"
-                  title="Harrison Gill" alt="Harrison Gill headshot"/></a>
+                  title="Harrison Gill" alt="Harrison Gill headshot" style="width:359px;height:365px;"/></a>
         <!--</div>-->
     <!--</div>-->
 </div>
@@ -31,7 +31,7 @@ Prior to arriving at the Institute, I worked in college recruiting in Israel, as
 My teaching experience additionally includes serving as a teaching assistant for the University of Maryland's ENES 317: Introduction to Engineering Leadership (Spring 2019) and ENES 472: International Business Cultures in Engineering and Technology (Spring 2019), as well as the Middlebury Institute's IEMG 8510: International Education Program Design and Assessment (Spring 2018) and IEMG 8511: Logic Model Framework for International Education (Spring 2018).
 
 ---
-
+<!--
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
@@ -48,4 +48,4 @@ My teaching experience additionally includes serving as a teaching assistant for
                   title="Harrison Gill" alt="Harrison Gill headshot"/></a>
         </div>
     </div>
-</div>
+</div>-->
