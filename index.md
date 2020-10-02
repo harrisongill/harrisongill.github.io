@@ -30,7 +30,6 @@ Prior to arriving at the Institute, I worked in college recruiting in Israel, as
 
 My teaching experience additionally includes serving as a teaching assistant for the University of Maryland's [ENES 317: Introduction to Engineering Leadership](https://eng.umd.edu/global/leadership-courses/enes317) (Spring 2019) and [ENES 472: International Business Cultures in Engineering and Technology](https://eng.umd.edu/global/leadership-courses/enes472) (Spring 2019), as well as the Middlebury Institute's [IEMG 8510: International Education Program Design and Assessment](https://courses.middlebury.edu/hub/miis/201828/iemg/8510b) (Spring 2018) and [IEMG 8511: Logic Model Framework for International Education](https://courses.middlebury.edu/hub/miis/201828/iemg/8511b) (Spring 2018).
 
----
 <!--
 
 <div class="container">
