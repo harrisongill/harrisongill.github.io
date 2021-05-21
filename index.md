@@ -32,7 +32,7 @@ My teaching experience additionally includes serving as a teaching assistant for
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
-    <!--<div class="row-fluid">
+    <div class="row-fluid">
         <div class="span5">
             Blue Ham<br/>
             Email: WOOFWOOF@goodboy.com<br/>
