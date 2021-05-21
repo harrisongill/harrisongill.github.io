@@ -28,12 +28,3 @@ I hold two master's degrees from the [International Education Management and Pub
 Prior to arriving at the Institute, I worked in college recruiting in Israel, as a teacher in Milwaukee, and as an English instructor in the Czech Republic on the [Fulbright English Teaching Assistant program](https://www.fulbright.cz/en/fulbright-scholarships/fulbright-english-teaching-assistants/). I earned my BA at the [University of California, San Diego](https://www.ucsd.edu), where I also had the opportunity to study abroad for a semester at Charles University in Prague.
 
 My teaching experience additionally includes serving as a teaching assistant for the University of Maryland's [ENES 317: Introduction to Engineering Leadership](https://eng.umd.edu/global/leadership-courses/enes317) (Spring 2019) and [ENES 472: International Business Cultures in Engineering and Technology](https://eng.umd.edu/global/leadership-courses/enes472) (Spring 2019), as well as the Middlebury Institute's [IEMG 8510: International Education Program Design and Assessment](https://courses.middlebury.edu/hub/miis/201828/iemg/8510b) (Spring 2018) and [IEMG 8511: Logic Model Framework for International Education](https://courses.middlebury.edu/hub/miis/201828/iemg/8511b) (Spring 2018).
-<!--
-<div class="container">
-<h4><a name="contact"></a>contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
-        </div>-->
